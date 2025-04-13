@@ -1,3 +1,18 @@
 title: Balaji Nandikolla
-description: Welcome to my portfolio!
+email: balaji.nandikolla@email.com
+description: >- 
+  A simple portfolio site powered by GitHub Pages.
+baseurl: "" # Keep this blank unless using a subfolder
+url: "https://bnandikolla.github.io"
 theme: minima
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
+
+# Socials (optional)
+twitter_username: yourhandle
+github_username: yourusername
