@@ -1,8 +1,13 @@
 ---
 layout: default
-title: My Cool Site
+title: Home
 ---
 
-# Welcome to My Page
+# 👋 Hello, I'm Your Name
 
-This is my awesome GitHub Pages site!
+Welcome to my portfolio!
+
+- 💼 I'm a software developer.
+- 🌱 Currently learning .NET and RabbitMQ.
+- 🛠️ Skills: C#, .NET, SQL, HTML, CSS, JavaScript
+- 📫 [Contact me](mailto:your@email.com)
